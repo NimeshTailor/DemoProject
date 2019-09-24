@@ -1,0 +1,15 @@
+To do connection between Ec2 instance and local machine
+------------------------------------------------------
+ssh ec2-user@3.87.175.175(it can change) -i myFirstInstance.pem 
+
+
+To list the file in s3 bucket 
+------------------------------------
+aws s3 ls s3://bucket_name
+
+
+To copy files from local to s3 bucket
+------------------------------------------
+aws s3 cp file_name s3://bucket_name
+
+
