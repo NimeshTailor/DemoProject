@@ -1,0 +1,63 @@
+body{
+    background-image: url(../Image/tobias-van-schneider-gz9Ez-H5asU-unsplash.jpg);
+    background-size: cover
+}
+nav{
+    text-align: end;
+}
+.logo{
+   height: 50px;
+   width: 50px;
+   border-radius:100%;
+   float: left;
+   margin-left: 10px;
+} 
+li{
+   margin: 15px;
+   display: inline-block;
+   font-size: 20px
+}
+li:hover{
+   background-color:white;
+   text-decoration: underline;
+}
+li>a{
+   text-decoration: none;
+   color: black;
+   margin-right: 5px;
+   opacity: 1px;
+   
+}
+
+#profilepic{
+    box-shadow: 0 4px 10px 0 rgba(0,0,0,0.2),0 4px 20px 0 rgba(0,0,0,0.19);
+}
+legend{
+    text-align: center;
+}
+legend>img{
+    height: 250px;
+    width: 250px;
+    border-radius: 100%;
+}
+.box{
+    margin: 05%;
+     text-align: center;
+     text-decoration-style: none;
+ }
+ .content{
+     text-align: center;
+    opacity: 0.7;
+ }
+ i{
+     font-size: 25px;
+     color: black;  
+    padding: 07px;
+}
+
+.opacity{
+    opacity: 0.7;
+}
+blockquote{
+    font-size: 20px;
+}
