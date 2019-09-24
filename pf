@@ -1,0 +1,26 @@
+
+{   "id":"2",
+       "name":"Nimesh Tailor",
+       "photo":"https://images.unsplash.com/photo-1484553441412-d8f66d90195b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9
+https://images.unsplash.com/photo-1484553441412-d8f66d90195b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9
+",
+       "contact":{
+           "email":"nimesh.tailor@raweng.com",
+           "phone":"8976229951",
+           "linkden":"www.linkedin.com/in/nimeshtailor16",
+           "twitter":"https://twitter.com/tailornimesh_",
+           "github":"-"
+       },
+       "designation":"Trainee-Jr.Application Developer",
+       "professional_Summary":{
+           "qualification":"BE",
+           "skills":["SQL","HTML","JS","CSS","Python"],
+           "projects":["Loan passing decision system using ML","Intelligent Surveillance System"],
+           "experience":"fresher"
+       },
+       "personal":{
+           "hobbies":["playing cricket","playing video games"],
+           "interests":["Technology",Travelling"]
+       }
+
+   },
